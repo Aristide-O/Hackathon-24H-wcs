@@ -1,23 +1,29 @@
 
-## Travel Memory Game
+## TRAVEL MEMORY GAME
 
 A react app created in 24 hours for an hackaton challenge by the wild code school.
 We created a game in wich you have to remember the image of the card you turn and try to turn the identical card.
 If you win, you will get a surprise!!! Try it on! https://travel-memory-game.netlify.app/
 
-THE RULES FOR PLAYING "MEMORY":
+THE RULES FOR PLAYING "Travel memory game":
 
-The cards are mix up.
-Turn over any two cards.
-If the two cards match, you will keep them.
-If they don't match, they turn  back over.
-Remember what was on each card and where it was.
-The game is over when all the cards have been matched.
-Then you get your gift!
+*The cards are mix up.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*Turn over any two cards.
+
+*If the two cards match, you will keep them.
+
+*If they don't match, they turn  back over.
+
+*Remember what was on each card and where it was.
+
+*The game is over when all the cards have been matched.
+
+*Then you get your gift!
 
 ### Getting Started
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
